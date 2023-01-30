@@ -1,0 +1,50 @@
+.form1{
+  margin: 10px auto;
+  max-width: 400px;
+  padding: 20px 12px 10px 20px;
+  font: 13px ;
+  
+  border: 10px;
+  border-color: blue;
+}
+.form1 li {
+  padding: 0;
+  display: block;
+  list-style: none;
+  margin: 10px 20px 0 0;
+
+}
+.form1 label{
+   margin: 0 0 3px 0;
+   padding: opx;
+   display: block;
+   font-weight: bold;
+}
+fieldset{
+  background-color: aquamarine;
+  padding: 100px;
+  max-width: 500px;
+  margin-bottom: 0px;
+  margin-left: 200px;
+}
+img{
+  width: 100%;
+  height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
